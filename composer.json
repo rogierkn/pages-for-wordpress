@@ -1,0 +1,17 @@
+{
+    "name": "rogierkn/pages-for-wp",
+    "description": "A bootstrap for developing plugins for wordpress in a structured way",
+    "require": {
+        "twig/twig": "~1.0",
+        "symfony/http-foundation": "^3.1"
+    },
+
+    "autoload": {
+        "psr-4": {"Rogierkn\\PagesForWp\\": "src/"}
+    }
+
+    "keywords": [
+        "wordpress",
+        "bootstrap",
+    ]
+}
