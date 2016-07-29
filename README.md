@@ -49,6 +49,7 @@ class ExamplePage extends Page
 
     /**
     * Handle your Page's actions in here
+    * You have access to the $request and $db in here
     */
     public function handle()
     {
