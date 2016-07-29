@@ -8,10 +8,10 @@
 
     "autoload": {
         "psr-4": {"Rogierkn\\PagesForWp\\": "src/"}
-    }
+    },
 
     "keywords": [
         "wordpress",
-        "bootstrap",
+        "bootstrap"
     ]
 }
